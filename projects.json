@@ -1,12 +1,12 @@
 [
     {
-        "id":"test",
-        "name":"test project",
-        "thumbnail":"https://raw.githubusercontent.com/Venchik444/vaenchi-3d-data/main/test-thumbnail.jpg",    
-        "date":"Jan 1 1970",
-        "shortdescr":"short description",
-        "tags": ["Test", "ststst", "foif23f", "ff32"],
-        "descr":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tellus quam, pharetra in mattis et, tincidunt eu mi. Sed id tortor bibendum, tincidunt dui vitae, laoreet augue. Cras finibus rutrum neque vitae rhoncus. Duis a risus luctus, tincidunt leo vitae, cursus urna. Nullam bibendum mauris ut enim pretium, porttitor tempor libero venenatis. Sed maximus ante ligula, eget placerat elit consequat sit amet. Sed commodo accumsan nulla, vitae laoreet nisi suscipit a. Donec gravida diam ut nunc luctus euismod. Sed fringilla, elit vitae interdum mollis, tellus sem posuere mi, vel malesuada risus libero eget mi. In molestie lectus risus, eget pulvinar nibh feugiat tempus. Phasellus ornare ultrices eros. Praesent vehicula nec dui ut fringilla. Morbi sagittis eros at dapibus feugiat. Aenean ac viverra est. Duis id ex ac mauris convallis pellentesque non non eros. Vivamus non neque consequat, viverra nunc quis, varius erat.",
-        "yt-url":"https://www.youtube.com/embed/NPxq-0j9ymM?si=a8aAdUolJt4bHI6J"
+        "id":"maizie",
+        "name":"Maizie",
+        "thumbnail":"https://raw.githubusercontent.com/Venchik444/vaenchi-3d-data/main/maizie.png",    
+        "date":"Apr 3 2026",
+        "shortdescr":"My first stylish 3D character with rig",
+        "tags": ["Blender", "Character", "Rigged"],
+        "descr":"Maizie is my first rigged 3D character model. I tried to keep it simple but unique, and I think it turned out great. I spent a lot of time modeling the body, but I still managed to achieve an acceptable result. I'm proud of this project and want to further develop my character modeling skills.",
+        "yt-url":"https://youtu.be/u5buhFhLhgk"
     }
 ]
