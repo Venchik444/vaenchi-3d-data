@@ -2,7 +2,7 @@
     {
         "id":"test",
         "name":"Test News",
-        "thumbnail":"none",    
+        "thumbnail": null,    
         "date":"Mar 5 2012",
         "shortdescr":"short description",
         "tags": ["Blender", "Character", "Rigged"],
