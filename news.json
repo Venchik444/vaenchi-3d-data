@@ -2,7 +2,7 @@
     {
         "id":"test",
         "name":"Test News",
-        "thumbnail": null,    
+        "thumbnail": "https://raw.githubusercontent.com/Venchik444/vaenchi-3d-data/main/maizie.png",    
         "date":"Mar 5 2012",
         "shortdescr":"short description",
         "tags": ["Blender", "Character", "Rigged"],
