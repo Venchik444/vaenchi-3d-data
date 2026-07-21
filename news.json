@@ -1,0 +1,12 @@
+[
+    {
+        "id":"test",
+        "name":"Test News",
+        "thumbnail":"none",    
+        "date":"Mar 5 2012",
+        "shortdescr":"short description",
+        "tags": ["Blender", "Character", "Rigged"],
+        "descr":"Maizie is my first rigged 3D character model. I tried to keep it simple but unique, and I think it turned out great. I spent a lot of time modeling the body, but I still managed to achieve an acceptable result. I'm proud of this project and want to further develop my character modeling skills.",
+        "url":"none"
+    }
+]
